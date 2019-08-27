@@ -2,8 +2,8 @@
 
 Performance Analysis of Undergraduate Students Placement Selection using Decision Tree and Random Forest Classifier
 
-The definition of attributes and values
-Attribute Definition Values
+The definition of attributes and values Attribute Definition Values
+
 Roll number Identity of a student
 ROLL_NO
 
